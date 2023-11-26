@@ -1,3 +1,7 @@
+.bgdark{
+    background-color: rgb(5, 5, 37);
+}
+
 .carousel-caption{
     top: 30%;
 }
