@@ -239,6 +239,10 @@
     
 }
 
+::-webkit-scrollbar { 
+    display: none; 
+    }
+
 
 .slide-p{
     font-size: 30px;
